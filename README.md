@@ -1,2 +1,2 @@
-# asonifydigital.github.io.
+# asonifydigital
 Official website of Asonify Digital
